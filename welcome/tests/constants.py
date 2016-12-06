@@ -1,6 +1,8 @@
-#!/usr/bin/python
-
 N_MIN = 1
-N_MAX = 100
-Y_MIN = 1
-Y_MAX = 100000
+N_MAX = 99
+M_MIN = 2
+M_MAX = 100
+A_MIN = 0
+A_MAX = 100000
+S_MIN = 0
+S_MAX = 100000
