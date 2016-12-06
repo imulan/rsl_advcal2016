@@ -11,7 +11,8 @@ int solve(int A, int border)
     return border+1;
 }
 
-int main() {
+int main()
+{
     int CASE;
     cin >>CASE;
     while(CASE--)
